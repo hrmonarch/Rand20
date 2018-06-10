@@ -1,0 +1,242 @@
+Building a character
+
+Races
+
+origionally 
+certain races have a prediliction towards different abilities such as bonus to status and exta abilities
+
+R20
+People should chooose the race that fits their charafter and not chave to consider the racidal abilities that come with the race.
+Races hsould \be flavor only. If the paye is playing a haracter that is intelligent, they should not be disuaded from choosing a race because the traits of the racepenalize intlkigence. Not only is it nonsensicle to have a penilized intelligence for a defined intelliced character, but to define an entre race as unintelligent seems racest even in a fantasy setting.
+
+Race is mearly an indication of a typical social environment, geographical location, and culteral heritabe by lineage. It impacts the back story of a charcater and may impact certain social dynamic of the charater during compaign sessions.
+
+As pockets of civilization remain in locationss they begin to adapt and take on characteristics of the geographic location they reside and the way people have adapterd to live in the given area
+
+key varibilities in races:
+light – high, medium, low, none
+terraine – woods, planes, hills, mountains, beach, ocean side, swamp, tundra, dessert, jungle
+temperature – hot, temperate, cold
+humidity – humid, arid
+
+physical traits and adaptions
+tall, short, stout, slim, harry, smooth, muscular, lean, light skinned, dark skinned, …?
+
+Racial traits & cultures
+religious
+periodic celebrations and observations
+sacred locations and objects
+values: 
+	physical labor
+	study
+	music
+	exploration
+	personal space
+	family
+	privacy
+
+TODO:
+table for building physical traits by locaton
+i.e. the people of this area tend to have these characteristics where people here have these characteristics.
+
+
+Ability scores
+	
+what are they arend what do they represent
+the foundation of a character the ability scores of a character represent the base ability for a clharacter
+as such the ability scores quantify the specs of a character because of the ability score must span the repesentaton of all actions that can and will be taken by the characteristic.
+
+RPG characters do two things, engage in social situations and engage in combat.  The sare the two major abstrations of a character. For all social interactions no stats are required as these decisions are up to roll playing and choses by the player and kept in check by the GM. These actions extend to talking to others PCs and NPCs haggaling, decision making, leadership, (or lack thereof), creativit, planning, deplomacy, and charm.
+
+Because there are no quanitative value for socail elements players should not be rollin g social checks as the social element is the heart of roll playing in an rpg.  No player should roll to make a decision or influcence another with charm. Scocial dynamics are inherently completsx and should nto be trivialize by reducing them to a meaningles vvalu7e adeed to a random roll.
+
+ST – damage w/ melee weapons, reate/frequncy of melee attack
+Dex – hand eye coordination, ranged comabat critical hit rate (ranged and melee) , accuracy to hit
+Con – physical health, heartyness, hp
+Agility – grace, balance, ac, dodge
+int – damage w/ magic through masteries e.g. maximize, enlarge, extend, and dely spell. Determines combat advantage
+mnd – accuracy of spells (debufs, enfeebs, attacks) magical defence (magic ac)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skills
+Everything is a skill
+all progression is based on the skill of the indicuidual character. If you worldlike a character to be a certain way you have the freedom to b uild the cahracger that way.
+
+First we introduce talents. Of the following list choose n talent. Thes and the skills you character is more talented in. just as a person who practive a skill they have talent in so to will the character prog4ress faster by having skils thaty have a natual talent for.
+The number of talents should be decided by the GM.
+
+Talents
+provide your character with either a +.5,+0, +-1/2
+this is added to each skill point given to a skill
+
+Benefit
+the venifit from each skill is derived from the making of skill points spent of a skill. Always the more pts spent the greater the benefit. The benefit is alwys reduced by the number of pts spent. This reflets the growth of learning a new skill, the slow process of polish in a skill, and the eventual mastery of a skill
+benefit b, skill s, b^1.5 = s
+
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Begin Homebrew Notes
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Progression:
+
+level: dependancies: cap on skills for feats, skills, etc
+skill score: square root of rank points for abilities, skills, etc.
+
+
+-Campaign 
+
+A campaign is a set of related missions. 
+The completion of a campaign is denoted by a "final conflict" to be determined by the gm of a campaign.  A campaign is ran by the same gm (or gms).  The gm running a campaign is not necessarly to be the creater of the missions for the campaign, but the collection is to be set and finalized by the same gm (or gms).  The *rewards for completion of a campaign are limited to: treasure (large scale); reputation (large scale).
+
+
+
+-Mission
+
+A mission is a collection of at least one quest.  The reward for completing a mission is dependant on the number and complexity of the composing quests.  The *rewards for a mission are limited to: One full level with equal scope to next level as indicated by current progresson; reputation (medium scale); treasure (medium scale).
+
+
+
+-Quest
+
+A quest is a single adventure consisting of: a composition consisting of a goal as defined by the gm or the party; a defining conflict or series of conflicts as defined by the gm; a resolution to define the completion and general level of success for the party members in this adventure (all to be defined by gm);  The rewards for the completion of a quest are limited to: skill points, 100(large quest), 50(small quest), +100%(overcame insurmountable odds (reguardless of difficulty)), -50%(overcame small odds(reguardless of difficlty)); treasure (small scale); experience points (determined by gm and reward must be at least a 1% progression in their current experience point bracket; reputation (small).
+
+*rewards
+Should the reward for the completion of a quest overlap with a mission and/or the completion of a mission overlap with a campaign, the rewards to not stack, but the highest scale takes presidence.
+
+
+
+==========================================================
+
+
+
+Character Definitions:
+
+
+
+-Character Statistics
+
+Each charcter statistic is composed of both a natural ability score and a skill based score.  The skill based score may increase as the player gains more skill points and allocates points to this score.  This allocation of points to a skill based attribute represents training and development in a generic skill set corelating to the attribute. ie. a player consistanly being exposed to injury and toxic exposure will not be healthier for the experience, but will develope a resilliency from the exposure.
+
+
+
+--Ability: natural, {skill1, skill2};
+
+
+
+--Strength: athletisism, {fast, slow};
+fast: muscular reations resulting in a spike of force.
+slow: muscular reations resulting in a extended duration of force.
+
+--Dextarity: agility, {balance, coordination};
+balance: ability to maintain center of gravity.
+coordination: body control.
+
+--Constitution: health, {endurance, resilliancy};
+endurance: resistance to exaustion. 
+resilliancy: toughness and resistance to ailements.
+
+--Intelegence: fluid, {crystallized, creativity};
+crystallized: accumulation of facts.
+creativity: ability to make unique connections and aquity for creation.
+
+
+--Wisdom: mind, {worldliness, composure} 
+
+
+worldliness: experience of the world and comprehension of the world around you. 
+composure: resilliency to influence
+
+
+
+--Charisma: divine grace, {force of will, divine practice}
+
+
+force of will: inner strength and driving force
+divine practice: spiritual development exercised by divine spellcasting.
+
+
+-Combat Attributes
+
+
+HP:
+
+
+Attack:
+
+
+Defence:
+
+
+
+
+-Saves
+
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Begin dndndnd notes
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Damage
+------
+MARQP
+
+M:
+     (Weapon Density)(Weapon Size Catagory)
+
+A:
+     Sqrt((Character Strength) - (M^(3/2)))
+
+R:
+     (Weapon Length)(Weapon Size Catagory)
+
+Q:
+     ((Lvl)d20)(skill.Combat)^(1/2) + Dex(Skill.Weapon)^(1/2) = q1
+     ((Target Lvl)d20)(target.skill.combat)^(1/2) + target.dex(target.skill.defence)^(1/2) = q2
+     Q = floor(q1/q2)
+
+P:
+     table lookup 
+     multiplyer from [1-10]
+
+
+
+attack type:
+piercing / slashing / bludgeoning / magic
+
+defence types:
+plate / chain / wood / leather / etc...
+
+(some table cross refrence needs to be made for this)
+(the table could further be modified to adjust for more specific quality 
+weapons, ie: 
+
+piercing - steel vs plate - steel : x4
+piercing - iron  vs plate - steel : x3.8
+slashing - wood  vs chain - adamantite : x1.1
+
+etc...
