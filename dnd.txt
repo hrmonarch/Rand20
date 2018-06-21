@@ -1,0 +1,91 @@
+=======================================================
+Index
+=======================================================
+Note: 
+During development ensure that 
+there are no duplicates
+there are no ambiguities, such as two names referring to the same thing
+Ensure each topic here is described somewhere
+Ensure all topics described in the book are represented here
+Group like topics together, such as ability scores or combat skills
+-------------------------------------------------------
+Elements of gameplay
+-------------------------------------------------------
+Tactical speed - movement during combat
+Travel speed - overland travel
+Attack speed - rate of attack
+accuracy 
+dodge 
+balance
+knock-back
+stun
+parry
+counter
+strength
+dexterity
+constitution
+agility
+intelligence 
+mind
+hit points
+life points
+experience points
+leveling
+Weapon group skills
+	light melee weapon skill
+	one-handed weapon skill
+	two-handed weapon skill
+	ranged weapon skill
+	light melee martial weapon skill
+	one-handed melee martial weapon skill
+	...
+Specific weapon skills
+	dagger
+	short sword
+	long sword
+	spear
+	flail
+	mace
+	war hammer
+	...
+Acrobatics
+Appraise
+Bluff
+Climb
+Craft
+Diplomacy
+Disable Devise (tinker, mechanics, ?)
+Disguise (hair & makeup + acting) (divide skill?)
+Escape Artist
+Handle Animal (keep?)
+Heal (Make this useful - apply to LP as well as HP)
+Intimidate (Is this a skill or personality trait?)
+knowledge - arcana
+...
+knowledge - religion
+Linguistics (keep?)
+Perception 
+Perform (replace with specific skills with music and musical instruments)
+Ride
+Sense Motive
+Sleight of Hand
+Spellcraft
+Stealth
+Survival
+Swim
+Use Magic Device
+
+
+-------------------------------------------------------
+Topics
+-------------------------------------------------------
+How combat works 
+* How to determine if an attack was successful 
+* skill points assigned to a specific weapon are also given to the skill value in the weapon group
+** The weapon group has a lower return of value per allocated point from points allocated towards a 
+** specific weapon. This allows a character to specialize in one weapon, but still have a general proficiency
+** in other, similar, weapons that belong to the same group.
+* How to determine if you dodged an attack
+How leveling works
+How experience rewards works
+How characters progress
