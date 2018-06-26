@@ -16,7 +16,7 @@ Travel speed - overland travel
 Attack speed - rate of attack
 accuracy 
 dodge 
-balance
+balance - vs knock-back; agile opponents or many opponents can put you off balance.
 knock-back
 stun
 parry
@@ -27,7 +27,7 @@ constitution
 agility
 intelligence 
 mind
-hit points
+hit points - recovering hit points; losing too many HPs at once (stunned?)
 life points
 experience points
 leveling
@@ -74,11 +74,18 @@ Stealth
 Survival
 Swim
 Use Magic Device
+Alignment - doing away with it? Replace with a collection of traits?
 
 
--------------------------------------------------------
+
+
+
+
+
+
+=======================================================
 Topics
--------------------------------------------------------
+=======================================================
 How combat works 
 * How to determine if an attack was successful 
 * skill points assigned to a specific weapon are also given to the skill value in the weapon group
@@ -86,6 +93,56 @@ How combat works
 ** specific weapon. This allows a character to specialize in one weapon, but still have a general proficiency
 ** in other, similar, weapons that belong to the same group.
 * How to determine if you dodged an attack
+* Crits should be rare (special)
+** Consider special modifier (mini-crit?) a bonus to strive for
+* Fighting defensively 
+* movement in combat
+* advantageous and disadvantageous combat scenarios
+** cover
+** flanking
+** concealment
+* special attacks
+** coup de grace
+** charge
+** bull rush / disarm / grapple / trip / overrun / sunder/ feint / mounted combat / delay / ready
+* Single handed, duel wield, double handed combat
 How leveling works
 How experience rewards works
 How characters progress
+Wealth, Equipment, Economy
+Weapons & Armor
+* Types, styles, quality, and properties
+** physical enhancements
+** magical enhancements
+** stats and specs / how they scale / hardness and breaking
+* Gear and gear-slots
+Ability scores
+** quantify them to a real-world measure
+*** more relatable and better understood
+Casting spells
+* what are the steps involved, what does a cast look like?
+* components - for rituals only?
+Actions in combat
+* turn based? 
+** how much can a person do in a round?
+DoTs & HoTs?
+Status effects
+* saves vs each status effect
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
