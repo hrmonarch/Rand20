@@ -54,7 +54,7 @@ Bluff
 Climb
 Craft
 Diplomacy
-Disable Devise (tinker, mechanics, ?)
+Disable Device (tinker, mechanics, ?)
 Disguise (hair & makeup + acting) (divide skill?)
 Escape Artist
 Handle Animal (keep?)
